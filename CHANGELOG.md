@@ -12,3 +12,5 @@
 
 - Initialize a Git repository
 - Create the project folder
+
+- item2
