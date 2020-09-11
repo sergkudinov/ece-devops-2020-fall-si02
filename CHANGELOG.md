@@ -6,4 +6,4 @@
 
 - Initialize a Git repository
 - Create the project folder
-- start
+- item 1
