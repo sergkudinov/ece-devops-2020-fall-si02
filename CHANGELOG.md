@@ -4,6 +4,7 @@
 
 ### Added
 
-- Initialize a Git repository
-- Create the project folder
-- item 1
+- Create user controller and unit test
+- Connect to Redis database
+- Create a HTTP web server using Express
+- Initialize a project
