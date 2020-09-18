@@ -8,8 +8,8 @@ app.get('/', (req, res) => {
   res.send('Hello World!')
 })
 
-dbClient.on("error", function(error) {
-  console.error(error);
+dbClient.on("error", (err) => {
+  console.error(err);
 });
 
 const server = app.listen(port, (err) => {
